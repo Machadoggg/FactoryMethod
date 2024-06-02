@@ -1,5 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 
-Console.WriteLine("Hello, World!");
+using FactoryMethod;
+
+
+
+Vehicle vehicleObject = Creator.VehicleCreator(Creator.CAR);
+Console.WriteLine(vehicleObject.MaxSpeed());
 
 
