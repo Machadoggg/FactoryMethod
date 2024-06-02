@@ -1,0 +1,15 @@
+C:\ProjectsDEV\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\net7.0\FactoryMethod.exe
+C:\ProjectsDEV\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\net7.0\FactoryMethod.deps.json
+C:\ProjectsDEV\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\net7.0\FactoryMethod.runtimeconfig.json
+C:\ProjectsDEV\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\net7.0\FactoryMethod.dll
+C:\ProjectsDEV\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\net7.0\FactoryMethod.pdb
+C:\ProjectsDEV\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net7.0\FactoryMethod.csproj.AssemblyReference.cache
+C:\ProjectsDEV\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net7.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectsDEV\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net7.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\ProjectsDEV\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net7.0\FactoryMethod.AssemblyInfo.cs
+C:\ProjectsDEV\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net7.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\ProjectsDEV\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net7.0\FactoryMethod.dll
+C:\ProjectsDEV\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net7.0\refint\FactoryMethod.dll
+C:\ProjectsDEV\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net7.0\FactoryMethod.pdb
+C:\ProjectsDEV\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net7.0\FactoryMethod.genruntimeconfig.cache
+C:\ProjectsDEV\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\net7.0\ref\FactoryMethod.dll
