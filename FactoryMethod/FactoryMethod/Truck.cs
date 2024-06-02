@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace FactoryMethod
 {
-    public abstract class Vehicle
+    public class Truck : Vehicle
     {
-        //Abstract method
-        public abstract int MaxSpeed();
+        public override int MaxSpeed()
+        {
+            return 120;
+        }
     }
 }
